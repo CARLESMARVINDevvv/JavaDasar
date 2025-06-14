@@ -33,7 +33,7 @@ public class TipeDataBukanPrimitif {
         Long iniLong = 1000L;
 
         Byte iniByte = null;
-//        iniByte = 100;
+        
 
         System.out.println(iniByte);
 
@@ -43,5 +43,12 @@ public class TipeDataBukanPrimitif {
 //      konfersi otomatis
         int iniInt = 100;
         Integer iniInteger2 = iniInt;
+
+
+        System.out.println(iniInteger);
+        System.out.println(iniInteger2);
+        System.out.println(iniLong);
+        System.out.println(iniInt);
+        
     }
 }
