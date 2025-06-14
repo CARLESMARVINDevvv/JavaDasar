@@ -10,10 +10,10 @@ public class TipeDataCaracter {
         char a = 'A';
         char r = 'R';
 
-        System.out.print(c);
-        System.out.print(h);
-        System.out.print(a);
-        System.out.print(r);
+        System.out.println(c);
+        System.out.println(h);
+        System.out.println(a);
+        System.out.println(r);
 
     }
 }
